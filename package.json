@@ -105,7 +105,7 @@
     "electron-window-state": "~5.0.3",
     "encoding": "~0.1.13",
     "moment": "~2.29.4",
-    "pinia": "~2.0.28",
+    "pinia": "~2.1.6",
     "source-map-support": "~0.5.20",
     "vue": "~3.3.4",
     "vue-i18n": "~9.2.2"
